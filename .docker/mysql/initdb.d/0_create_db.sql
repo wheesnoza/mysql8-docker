@@ -1,0 +1,3 @@
+DROP SCHEMA IF EXISTS test;
+CREATE SCHEMA test;
+USE test;
